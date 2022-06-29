@@ -5,7 +5,7 @@ Requirements:
 #1. Create an html page named index.html with any text editor you choose.
 #2. Create a proper HTML document with header and body sections and add all bellow elements:
 
-Add H1 heading in the center
+Add H1 heading in the center.
 Add H2 and H3 headings to the right and with red color.
 Add a paragraph with font-size of 12px.
 Add another paragraph with the text “This is an example of Bold and
